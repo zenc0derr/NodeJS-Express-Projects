@@ -8,4 +8,8 @@ This app has simple Frontend written in Vannila JS and uses axios package to fet
 
 Backend is highly functional which is built using ExpressJS and MongoDB Atlas as an Database.
 
-![Home Page](/home/teja/Pictures/TaskManagerAppHome.png)
+## Home Page
+![Home Page](https://raw.githubusercontent.com/zenc0derr/NodeJS-Express-Projects/main/Task%20Manager/public/images/TaskManagerAppHome.png)
+
+## Edit Page
+![Edit Page](https://github.com/zenc0derr/NodeJS-Express-Projects/blob/main/Task%20Manager/public/images/TaskManagerEditPage.png?raw=true)
